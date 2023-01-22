@@ -21,4 +21,4 @@ Alias(es) | Params | Purpose | Personal Rating
 `kk` | `*` | Shorthand for `kubectl` | :star:
 `lsa` | | Shorthand for `ls -f -l -h` for a detailed view of dir contents | :star: :star: :star:
 `mkcd` | `new_directory_name` | Calls `mkdir %dir%` && `cd %dir%` | :star: :star: :star: :star:
-`TimeCmd.ps1` | `-Target {executable_file_path}` | A wrapper for timing how long a command takes | :star: :star: :star
+`TimeCmd.ps1` | `-Target {executable_file_path}` | A wrapper for timing how long a command takes | :star: :star: :star:
